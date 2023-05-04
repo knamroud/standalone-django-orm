@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "c4c3054a81a8f1ca879412891b2c6459c81b342c0a9094e77f0f7f1338082000"
+            "sha256": "8906b12caff12ebbfdbe3272b659b93ff2dc4002c8ed11d0fed7fc046038ee36"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -63,6 +63,13 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==0.4.4"
+        },
+        "standalone-django-orm": {
+            "hashes": [
+                "sha256:24b3eab755ed53d5631c10074cee297d48e7c405d3ce54b3dfd38eddd18f4e5b"
+            ],
+            "path": "./dist/standalone_django_orm-0.1-py3-none-any.whl",
+            "version": "==0.1"
         },
         "tomli": {
             "hashes": [

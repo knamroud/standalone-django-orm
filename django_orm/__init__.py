@@ -1,3 +1,3 @@
-from .init_django import init
+from .manage import init
 init()
 from .db.models import *

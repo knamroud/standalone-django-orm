@@ -8,4 +8,4 @@ pipenv run python manage.py makemigrations db
 pipenv run python manage.py migrate
 echo "Building the library"
 cd ..
-pipenv python -m build
+pipenv run python -m build

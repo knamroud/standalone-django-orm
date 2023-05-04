@@ -4,5 +4,6 @@ Through this, you can handle migrations and models just as you would while devel
 ## How to use 
 First, go to django_orm/manage.py and setup the database informations (a default db.sqlite3 db is included for test purposes)  
 Then go to django_orm/db/models.py and add your models.  
-Run the setup.sh script to make and apply migrations and build the module that you'll import in your project to use.  
+Run the setup.sh script to make and apply migrations and build the module that you'll install and import in your project to use.  
+Import django_orm.db.models to work with your models.    
 You're done!
