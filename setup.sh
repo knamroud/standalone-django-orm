@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Installing dependencies and switching to pipenv"
+echo "Installing dependencies"
 pipenv install
 echo "Making migrations and applying them"
 cd django_orm
