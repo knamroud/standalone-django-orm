@@ -6,7 +6,6 @@ name = "pypi"
 [packages]
 django = "*"
 build = "*"
-standalone-django-orm = {path = "./dist/standalone_django_orm-0.1-py3-none-any.whl"}
 
 [dev-packages]
 
