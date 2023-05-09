@@ -4,6 +4,11 @@ version = "0.1"
 dependencies = [
     "django",
 ]
+authors = [
+  { name="Kirelos Namroud", email="namroudkirelos04@gmail.com" },
+]
+description = "Django ORM outside of a Django project."
+readme = "README.md"
 
 [tool.setuptools.packages.find]
 exclude = ["django_orm.db.migrations*"]
