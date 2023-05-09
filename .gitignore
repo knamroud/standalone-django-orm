@@ -1,0 +1,7 @@
+build
+standalone_django_orm.egg-info
+dist
+migrations
+.vscode
+__pycache__
+db.sqlite3
